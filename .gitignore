@@ -1,0 +1,16 @@
+# Archivos de empaquetado y temporales
+*.zip
+*.spec
+
+# Directorios de compilación y caché
+/build/
+/dist/
+__pycache__/
+
+# Archivos generados por IDEs/PyInstaller
+*.toc
+*.pyz
+*.pyo
+*.swp
+*.log
+*.iml
