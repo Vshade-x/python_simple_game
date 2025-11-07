@@ -14,3 +14,7 @@ __pycache__/
 *.swp
 *.log
 *.iml
+
+# Directorios de configuración del IDE
+.idea/
+magnolia/
